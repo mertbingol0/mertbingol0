@@ -15,7 +15,7 @@ Hello, my name is Mert Bingöl. I am 17 years old and I am a citizen who is over
 ---
 [![](https://visitcount.itsvg.in/api?id=mertbingol0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Buy Me A Coffe
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mertbingol0) 
 
   
