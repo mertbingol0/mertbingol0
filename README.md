@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Mert Bingöl. I am 17 years old and I am a citizen who is overly curious and aiming to become a skilled programmer and hacker. I am a web application developer who focuses on software and cybersecurity topics. 
+0x0
 
 [![](https://visitcount.itsvg.in/api?id=mertbingol0&icon=0&color=0)](https://visitcount.itsvg.in)
 
