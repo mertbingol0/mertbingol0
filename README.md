@@ -9,7 +9,7 @@
 **Fullstack developer and security researcher**.  
 I build end-to-end systems designed to survive hostile input and real-world abuse.
 
-- 🔐 Think like an attacker, build like an engineer  
+- 🔐 Vulnerability Researcher  
 - 🧠 Security-first architecture  
 - 🌐 Fullstack development (backend-focused)  
 - 🌐 Network protocols & infrastructure  
